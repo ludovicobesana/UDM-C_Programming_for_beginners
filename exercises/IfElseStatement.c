@@ -1,8 +1,8 @@
 /*================================
- * Name: IfStatement.c
+ * Name: IfElseStatement.c
  * Author: Ludovico Besana
  * Version: 1.0
- * Description: if statement in c
+ * Description: if else statement in c
  *==============================*/
 
 #include <stdio.h>
